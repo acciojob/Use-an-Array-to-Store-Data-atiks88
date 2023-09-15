@@ -18,15 +18,16 @@ let complexArray = [
       c: "c",
       d: "d"
     }
-  ]
+  ],
 	[
 	{
 		true:true
-	},
+	}
+	,
 	{
 		false:false
 	}
-	]
+	],
    [
 	   {
 		   undefined: undefined
